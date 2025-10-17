@@ -15,7 +15,7 @@ O sistema recebe um briefing bruto, processa-o através de uma cadeia de 6 LLMs 
 
 Uma demonstração completa do sistema em funcionamento, desde o upload do briefing até a análise do resultado final, pode ser encontrada no vídeo abaixo:
 
-[**COLE AQUI O SEU LINK DO VÍDEO LOOM**]
+https://www.loom.com/share/c873f84233484b6e954f2780e4bbec44?sid=7366dd25-007f-4fc0-bb4c-040f02f62881
 
 ## 3. Tecnologias Utilizadas
 
