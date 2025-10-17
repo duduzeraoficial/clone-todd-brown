@@ -18,10 +18,10 @@ O processo foi estruturado em quatro etapas sequenciais, utilizando uma instânc
 
 Foi provisionada uma instância LLM dedicada (Gemini) que serviu como o "padrão-ouro" para a validação. Esta instância foi equipada com uma base de conhecimento abrangente e exclusiva, contendo mais de 4.000 linhas de texto destilado dos princípios, frameworks e táticas de Todd Brown. Esta base de conhecimento incluiu:
 
-* A íntegra do Método E5111111111.  
-* As nuances da criação de Big Marketing Ideas (BMI) e Mecanismos Únicos (UM)222222222.  
-* Os cinco níveis de Consciência do Prospecto e de Sofisticação do Mercado de Eugene Schwartz3333.  
-* A filosofia de construção de Ofertas SIN (Superior, Irresistível, No-brainer)4444.  
+* A íntegra do Método E5.  
+* As nuances da criação de Big Marketing Ideas (BMI) e Mecanismos Únicos (UM).  
+* Os cinco níveis de Consciência do Prospecto e de Sofisticação do Mercado de Eugene Schwartz.  
+* A filosofia de construção de Ofertas SIN (Superior, Irresistível, No-brainer).  
 * Análises e exemplos práticos extraídos de webinars, artigos e cursos5.
 
 Este oráculo foi projetado para não apenas "conhecer" o material, mas para **raciocinar e argumentar** com base nos seus princípios fundamentais.
