@@ -40,7 +40,7 @@ A solução implementada é composta por quatro componentes principais, orquestr
 * **n8n:** Escolhido pela sua interface visual, que facilita a construção e a depuração de fluxos complexos. A utilização do nó **Structured Output Parser** foi crucial para garantir a fiabilidade da saída JSON em cada etapa.  
 * **Lovable:** Permitindo a prototipagem rápida de um front-end profissional e funcional, incluindo melhorias de UX como a tela de carregamento, demonstrando uma visão de produto final.  
 * **OpenRouter:** Adotado para gerir custos de forma eficiente e permitir a experimentação com diferentes modelos de LLM, otimizando a relação custo-benefício para cada tarefa específica.  
-* **Engenharia de Prompt Manual com Claude 3.5 Sonnet:** A decisão de criar e refinar manualmente cada prompt, em vez de depender de um processo totalmente automatizado, garantiu um nível superior de precisão, nuance e controlo sobre as instruções dadas aos LLMs.  
+* **Engenharia de Prompt Manual com Claude 4.5 Sonnet:** A decisão de criar e refinar manualmente cada prompt, em vez de depender de um processo totalmente automatizado, garantiu um nível superior de precisão, nuance e controlo sobre as instruções dadas aos LLMs.  
 * **Arquitetura de LLMs Modulares:** Em vez de um único prompt monolítico, a separação do trabalho em seis LLMs especializados permitiu a criação de prompts mais focados, respostas mais precisas e um processo mais fácil de depurar e otimizar.
 
 #### **5\. Métricas de Sucesso e Validação**
