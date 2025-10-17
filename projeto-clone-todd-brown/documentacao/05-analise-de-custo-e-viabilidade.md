@@ -26,7 +26,8 @@ O custo total para executar uma análise estratégica completa, do início ao fi
 
 #### **3\. Evidência Visual do Custo Operacional**
 
-*![][image1]*
+![Imagem do WhatsApp de 2025-10-17 à(s) 17 02 27_002f0c0e](https://github.com/user-attachments/assets/5d2c7cfb-4904-456b-beec-ccac071eef01)
+
 
 Cada requisição acima corresponde ao acionamento de cada LLM respectiva na sequência, sendo a última requisição a mais “cara” que é a Estruturadora do JSON para o front no LOVABLE
 
