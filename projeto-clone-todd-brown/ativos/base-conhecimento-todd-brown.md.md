@@ -1,21 +1,6 @@
  # TODD BROWN E O MÉTODO E5: GUIA COMPLETO E DEFINITIVO  
 ## Documento Unificado de Pesquisa Abrangente  
 ---
-
-## ÍNDICE
-
-1. [Esclarecimento Inicial: E5 vs. 5S](#esclarecimento)  
-2. [Quem é Todd Brown](#quem-e-todd-brown)  
-3. [O Método E5: Visão Geral](#metodo-e5-visao-geral)  
-4. [As Cinco Etapas do E5 (Detalhamento)](#cinco-etapas-detalhadas)  
-5. [Conceitos-Chave do Método](#conceitos-chave)  
-6. [Fundamentos Teóricos: Eugene Schwartz](#fundamentos-teoricos)  
-7. [Estudos de Caso e Resultados](#estudos-de-caso)  
-8. [Programas e Recursos Disponíveis](#programas-recursos)  
-9. [Aplicação Prática: Como Implementar](#aplicacao-pratica)  
-10. [Validação e Testemunhos](#validacao)  
-11. [Recursos Adicionais](#recursos)
----  
 ## 1. ESCLARECIMENTO INICIAL: MÉTODO E5 vs. FILOSOFIA 5S
 
 **IMPORTANTE:** Existe uma confusão comum que precisa ser esclarecida desde o início:
