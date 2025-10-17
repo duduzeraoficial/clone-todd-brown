@@ -1,0 +1,47 @@
+flowchart TD
+    A([Utilizador - Interface Lovable])
+    B[Upload do Briefing DOCX ou TXT]
+    C(n8n recebe dados via Webhook)
+    D{Formato do ficheiro e valido?}
+    E[Exibe mensagem de erro ao utilizador]
+    
+    subgraph Processamento[Cadeia de Analise Modular n8n]
+        F[[LLM 1: Analise Geral do Briefing]]
+        G[[LLM 2: Analise da Big Idea]]
+        H[[LLM 3: Pontuacao dos Blocos]]
+        I[[LLM 4: Sugestoes de Melhorias]]
+        J[[LLM 5: Geracao da Nova Versao]]
+        K[[LLM 6: Organizacao em JSON Estruturado]]
+        
+        F --> G
+        G --> H
+        H --> I
+        I --> J
+        J --> K
+    end
+    
+    L(Exibe Analise Completa em JSON)
+    
+    A --> B
+    B --> C
+    C --> D
+    
+    D -->|Nao - Formato Invalido| E
+    E --> A
+    
+    D -->|Sim - Formato Valido| F
+    
+    K --> L
+    L --> A
+    
+    style Processamento fill:#f0f8ff,stroke:#4a90e2,stroke-width:3px
+    style F fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    style G fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    style H fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    style I fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    style J fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    style K fill:#fff4e6,stroke:#ff9800,stroke-width:2px
+    style E fill:#ffebee,stroke:#f44336,stroke-width:2px
+    style L fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
+    style A fill:#e3f2fd,stroke:#2196f3,stroke-width:2px
+    style C fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px
