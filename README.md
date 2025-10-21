@@ -96,3 +96,8 @@ O repositório está organizado da seguinte forma para garantir clareza e fácil
 |-- /sistema/
 |   |-- todd-brown-clone-workflow.json (O workflow exportado do n8n)
 ```
+
+### Contatos
+Email: eduardodesousasilva12@gmail.com
+Instagram: https://www.instagram.com/eduardosousa.12/
+Telefone: 5534998557386
