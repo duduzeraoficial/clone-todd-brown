@@ -97,6 +97,11 @@ O repositório está organizado da seguinte forma para garantir clareza e fácil
 |   |-- todd-brown-clone-workflow.json (O workflow exportado do n8n)
 ```
 
-### Contatos
-**Email**: eduardodesousasilva12@gmail.com
-**Linkedin**: www.linkedin.com/in/eduardo-sousa-dev12
+---
+
+## 6. Contato
+
+Conecte-se comigo para discutir automação, IA ou oportunidades profissionais:
+
+* **LinkedIn:** `https://www.linkedin.com/in/eduardo-sousa-dev12`
+* **E-mail:** `eduardodesousasilva12@gmail.com`
