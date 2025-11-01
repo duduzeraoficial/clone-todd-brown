@@ -98,6 +98,5 @@ O repositório está organizado da seguinte forma para garantir clareza e fácil
 ```
 
 ### Contatos
-Email: eduardodesousasilva12@gmail.com
-Instagram: https://www.instagram.com/eduardosousa.12/
-Telefone: 5534998557386
+**Email**: eduardodesousasilva12@gmail.com
+**Linkedin**: www.linkedin.com/in/eduardo-sousa-dev12
